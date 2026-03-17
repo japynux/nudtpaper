@@ -17,6 +17,7 @@
 *.gz
 *.bcf
 *.xml
+*:Zone.Identifier
 mainpaper.synctex.gz
 mainpaper.bbl
 mainpaper.thm
